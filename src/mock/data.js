@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   paragraphOne: 'I am a self taught Web Developer who wants to break into the tech industry. I am highly motivated, conscientious and very hard working. Proficient in HTML, CSS, JavaScript and React. I also have experience using Node.js, SQL and MongoDB as well as some Python, PHP and Java. ',
-  paragraphTwo: 'My passion is in coding, building stylish web pages and learning new technologies. I have been learning to code for 2 years and have focused on front-end technologies the past year and completing the web-dev career path on Codecademy.',
+  paragraphTwo: 'My passion is in coding, building stylish web pages and learning new technologies. I have been learning to code for 2 years and have focused on front-end technologies the past year and completed the web-dev career path on Codecademy.',
   paragraphThree: 'My background is in carpentry which has given me many transferable skills including problem solving, self-management and team-working.',
   resume: 'https://drive.google.com/file/d/17EZEwz1I3EfsYvZ1oOqH-ACkrlIyMDNG/view?usp=sharing', // if no resume, the button will not show up
 };
